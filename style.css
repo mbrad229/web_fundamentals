@@ -93,9 +93,12 @@ justify-content: space-evenly;
 font-size: .5em;
 }
 
-.froggybreadmenu {
-   text-decoration: underline;
-}
+.froggybreadmenu 
+   {text-decoration: underline;}
+
+.bagelsmenu
+   {text-decoration: underline;}
+
 footer
    {color: #4A593F;
    font-family: Lora, serif;
