@@ -106,6 +106,9 @@ font-size: .5em;
 .bagelsmenu
    {text-decoration: underline;}
 
+.bagelsimage
+      {align-content: center;}
+
 footer
    {color: #4A593F;
    font-family: Lora, serif;
