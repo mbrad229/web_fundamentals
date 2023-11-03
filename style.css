@@ -16,13 +16,23 @@ h2
    font-family: Lora, serif;
    font-size: 2em;
    text-align: center;
+   margin-top: 0em;
+   margin-bottom: 0em;
    }
-p
+h3
    {color:#4A593F;
    font-family: Lora, serif;
    font-size: 1.5em;
    text-align: center;
+   margin-top: 0em;
    }
+
+h4 
+   {color:#4A593F;
+   font-family: Lora, serif;
+   font-size: 1.25em;
+   font-style: bold;
+   text-align: center;}
 
 
 a:link, a:visited
@@ -31,8 +41,6 @@ a:link, a:visited
 
 a:hover 
    {color: #daa520;}
-
-.menu {}
 
 ul
    {color: #4A593F;
@@ -111,6 +119,18 @@ font-size: .5em;
    flex-direction: row;
    justify-content: center;}
 
+.bageldoughingredients
+   {color:#4A593F;
+   font-family: Lora, serif;
+   font-size: 1.25em;
+   text-align: center;
+   margin-top: 0em;
+   list-style-type: circle;
+   }
+.bageldough
+   {text-align: center;
+   }
+   
 footer
    {color: #4A593F;
    font-family: Lora, serif;
