@@ -2,14 +2,15 @@
 header 
    {display: flex;
    flex-direction: row;
-   padding-bottom: 1em;}
+   padding-bottom: 1em;
+   align-items: center;}
 
 h1 
    {color: #4A593F;
    font-family: Lora, serif;
    font-size: 2.5em;
    font-style: bold;
-   padding-left: 1em;}
+   }
 
 h2 
    {color: #4A593F;
@@ -44,8 +45,8 @@ p
    margin-bottom: 0em;}
 
 body
-   {margin-left: 1em;
-      margin-right: 1em;}
+   {margin-left: 1.5em;
+      margin-right: 1.5em;}
 
 a:link, a:visited
    {color: #4A593F;
@@ -140,6 +141,7 @@ font-size: .5em;
    display: flex;
    flex-direction: column;
    padding: 0em;}
+
 .bageldough
    {text-align: center;}
 
@@ -157,7 +159,11 @@ font-size: .5em;
 .poachingliquid
    {text-align: center;}
 
+.variations
+   {padding-top: 1em;}
+
 footer
    {color: #4A593F;
    font-family: Lora, serif;
-   text-align: right;}
+   text-align: right;
+   padding-top: 1em;}
