@@ -22,7 +22,7 @@ h2
 h3
    {color:#4A593F;
    font-family: Lora, serif;
-   font-size: 1.5em;
+   font-size: 1.8em;
    text-align: center;
    margin-top: 0em;
    }
@@ -30,11 +30,22 @@ h3
 h4 
    {color:#4A593F;
    font-family: Lora, serif;
+   font-size: 1.5em;
+   font-style: bold;
+   text-align: center;
+   margin-bottom: 0em;}
+
+p
+   {color:#4A593F;
+   font-family: Lora, serif;
    font-size: 1.25em;
    font-style: bold;
    text-align: center;
    margin-bottom: 0em;}
 
+body
+   {margin-left: 1em;
+      margin-right: 1em;}
 
 a:link, a:visited
    {color: #4A593F;
@@ -128,12 +139,23 @@ font-size: .5em;
    list-style-type: circle;
    display: flex;
    flex-direction: column;
-   padding: 0em;
-   }
+   padding: 0em;}
 .bageldough
-   {text-align: center;
+   {text-align: center;}
 
-   }
+.bagelpoachingliquid
+   {color:#4A593F;
+   font-family: Lora, serif;
+   font-size: 1.25em;
+   text-align: center;
+   margin-top: 0em;
+   list-style-type: circle;
+   display: flex;
+   flex-direction: column;
+   padding: 0em;}
+
+.poachingliquid
+   {text-align: center;}
 
 footer
    {color: #4A593F;
