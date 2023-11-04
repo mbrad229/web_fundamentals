@@ -73,7 +73,7 @@ li
 
 .breadsmenu
    {text-decoration: underline;}
-   
+
 .sweets 
    {text-decoration: underline;}
 
@@ -94,19 +94,20 @@ li
 .froggybread
    {display: flex;
    flex-direction: row;
-   justify-content: center;}
+   justify-content: center;
+   justify-content: space-evenly;}
 
 .frogbread
-   {max-width: 50%;}
+   {max-width: 50%;
+      margin: 0em;}
 
 .tiktok-embed
    {display: flex;
    justify-content: left;}
  
-.dropdown {
-position: relative;
-display: inline-block;
-}
+.dropdown 
+   {position: relative;
+   display: inline-block;}
 
 .dropdown-content {
 display: none;
