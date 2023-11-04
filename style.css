@@ -103,7 +103,7 @@ li
 
 .tiktok-embed
    {display: flex;
-   justify-content: left;}
+   align-content: left;}
  
 .dropdown 
    {position: relative;
