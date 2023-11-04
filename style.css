@@ -162,6 +162,11 @@ font-size: .5em;
 .variations
    {padding-top: 1em;}
 
+.babkallahimage
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
 footer
    {color: #4A593F;
    font-family: Lora, serif;
