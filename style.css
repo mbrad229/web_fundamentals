@@ -127,6 +127,15 @@ li
    {max-width: 50%;
       margin: 1em;}
 
+.babkallahimages
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.babkallahbread
+   {max-width: 50%;
+      margin: 1em;}
+
 .tiktok-embed
    {display: flex;
    align-content: left;}
