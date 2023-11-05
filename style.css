@@ -195,20 +195,18 @@ li
    {position: relative;
    display: inline-block;}
 
-.dropdown-content {
-display: none;
-position: absolute;
-min-width: 160px;
-padding: 12px 16px;
-z-index: 1;
-}
+.dropdown-content 
+   {display: none;
+   position: absolute;
+   min-width: 160px;
+   padding: 12px 16px;
+   z-index: 1;}
 
-.dropdown:hover .dropdown-content {
-display: flex;
-flex-direction:row;
-justify-content: space-evenly;
-font-size: .5em;
-}
+.dropdown:hover .dropdown-content 
+   {display: flex;
+   flex-direction:row;
+   justify-content: space-evenly;
+   font-size: .5em;}
 
 .bagelsimage
    {display: flex;
