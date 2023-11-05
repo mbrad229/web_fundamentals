@@ -118,6 +118,15 @@ li
   {max-width: 50%;
       margin: 1em;}
 
+.focacciaimages
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.focaccia
+   {max-width: 50%;
+      margin: 1em;}
+
 .tiktok-embed
    {display: flex;
    align-content: left;}
