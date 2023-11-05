@@ -169,6 +169,15 @@ li
    {max-width: 50%;
       margin: 1em;}
 
+.pastriesrow3
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.pastryrow3
+   {max-width: 50%;
+      margin: 1em;}
+
 .tiktok-embed
    {display: flex;
    align-content: left;}
