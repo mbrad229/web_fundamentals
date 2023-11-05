@@ -85,12 +85,12 @@ li
 .aboutmenu
    {text-decoration: underline;}
 
-.croissants 
+.croissantsindex 
    {display: flex;
    flex-direction: row;
    justify-content: center;}
 
-.homeimages 
+.indeximages 
    {max-width: 50%;}
 
 .bagelimages
