@@ -151,6 +151,15 @@ li
    {max-width: 50%;
       margin: 1em;}
 
+.galetterecipeimage
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.galetterecipe
+   {max-width: 50%;
+      margin: 1em;}
+
 .pastriesrow1
    {display: flex;
    flex-direction: row;
