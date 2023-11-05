@@ -68,21 +68,23 @@ li
    display: inline;
    padding: 1em;}
 
-.breads 
-   {text-decoration: underline;}
-
 .breadsmenu
    {text-decoration: underline;}
 
-.sweets 
+.babkallahmenu 
    {text-decoration: underline;}
 
-.pastries 
+.bagelsmenu
+   {text-decoration: underline;}
+
+.sweetsmenu
    {text-decoration: underline;}
 
 .pastriesmenu
    {text-decoration: underline;}
 
+.croissantsmenu
+   {text-decoration: underline;}
 
 .aboutmenu
    {text-decoration: underline;}
@@ -162,15 +164,6 @@ flex-direction:row;
 justify-content: space-evenly;
 font-size: .5em;
 }
-
-.babkallahmenu 
-   {text-decoration: underline;}
-
-.bagelsmenu
-   {text-decoration: underline;}
-
-.croissantsmenu
-   {text-decoration: underline;}
 
 .bagelsimage
    {display: flex;
