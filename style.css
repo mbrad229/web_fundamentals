@@ -294,6 +294,20 @@ li
 .bageldough
    {text-align: center;}
 
+.cookiedoughingredients
+   {color:#4A593F;
+   font-family: Lora, serif;
+   font-size: 1.25em;
+   text-align: center;
+   margin-top: 0em;
+   list-style-type: circle;
+   display: flex;
+   flex-direction: column;
+   padding: 0em;}
+
+.cookieingredients
+   {text-align: center;}
+
 .galettedoughingredients
    {color:#4A593F;
    font-family: Lora, serif;
@@ -344,6 +358,9 @@ li
 
 #croissantassembly
    {padding-top: 1em;}
+
+#cookietitle
+   {margin-bottom: 0em;}
 
 .babkallahimage
    {display: flex;
