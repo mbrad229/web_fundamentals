@@ -356,11 +356,31 @@ li
 #croissantdoughprep
    {padding-top: 1em;}
 
+#baguetteprep
+   {margin-bottom: 0em;
+    margin-top: 1em;}
+
+#bagelprep
+   {margin-bottom: 0em;
+    margin-top: 1em;}
+
+#galetteprep
+   {margin-bottom: 0em;
+    margin-top: 1em;}
+
 #croissantassembly
    {padding-top: 1em;}
 
 #cookietitle
    {margin-bottom: 0em;}
+
+#cookieprep
+   {margin-bottom: 0em;
+    margin-top: 1em;}
+
+#babkallahprep
+   {margin-bottom: 0em;
+    margin-top: 1em;}
 
 .babkallahimage
    {display: flex;
