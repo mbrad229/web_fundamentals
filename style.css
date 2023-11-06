@@ -82,8 +82,15 @@ li
 .croissantsmenu
    {text-decoration: underline;}
 
+.baguettemenu
+   {text-decoration: underline;}
+
+.cookiemenu
+   {text-decoration: underline;}
+
 .aboutmenu
    {text-decoration: underline;}
+
 
 .croissantsindex 
    {display: flex;
