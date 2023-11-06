@@ -330,10 +330,12 @@ li
    font-size: 1.25em;
    text-align: center;
    margin-top: 0em;
-   list-style-type: circle;
    display: flex;
    flex-direction: column;
    padding: 0em;}
+
+ol.1
+   {list-style-type: circle;}
 
 .baguettedough
    {text-align: center;}
