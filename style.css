@@ -139,7 +139,8 @@ footer
    justify-content: center;}
 
 .indeximages 
-   {max-width: 50%;}
+   {max-width: 50%;
+      margin: 1em;}
 
 .bagelimages
    {display: flex;
@@ -290,6 +291,22 @@ footer
    flex-direction: row;
    justify-content: center;}
 
+.babkallahimage
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.aboutimages
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.aboutimage1
+   {max-width: 50%;
+      margin: 1em;}
+
+/*Text*/
+
 .bageldoughingredients
    {color:#4A593F;
    font-family: Lora, serif;
@@ -359,11 +376,6 @@ footer
 
 .poachingliquid
    {text-align: center;}
-
-.babkallahimage
-   {display: flex;
-   flex-direction: row;
-   justify-content: center;}
 
 .babkallahdoughingredients
    {color:#4A593F;
