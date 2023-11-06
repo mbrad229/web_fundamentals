@@ -3,7 +3,7 @@
 header 
    {display: flex;
    flex-direction: row;
-   padding-bottom: 1em;
+   padding-bottom: 0.5em;
    align-items: center;}
 
 h1 
@@ -479,3 +479,6 @@ footer
 #babkallahprep
    {margin-bottom: 0em;
     margin-top: 1em;}
+
+#abouttext
+   {margin-top: 0em;}
