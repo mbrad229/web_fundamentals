@@ -154,6 +154,15 @@ li
    {max-width: 50%;
       margin: 1em;}
 
+.baguetterecipeimage
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
+.baguetterecipe
+   {max-width: 50%;
+      margin: 1em;}
+
 .galetterecipeimage
    {display: flex;
    flex-direction: row;
