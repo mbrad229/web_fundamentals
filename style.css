@@ -234,6 +234,15 @@ li
    flex-direction: row;
    justify-content: center;}
 
+.sweetsrow4
+   {max-width: 50%;
+      margin: 1em;}
+
+.sweetsimages4
+   {display: flex;
+   flex-direction: row;
+   justify-content: center;}
+
 .sweetsrow2
    {max-width: 50%;
       margin: 1em;}
@@ -379,6 +388,20 @@ li
    padding: 0em;}
 
 .babkallahfillingassembly
+   {text-align: center;}
+
+.croissantdoughingredients
+   {color:#4A593F;
+   font-family: Lora, serif;
+   font-size: 1.25em;
+   text-align: center;
+   margin-top: 0em;
+   list-style-type: circle;
+   display: flex;
+   flex-direction: column;
+   padding: 0em;}
+
+.croissantdough
    {text-align: center;}
 
 footer
