@@ -4,6 +4,7 @@ header
    {display: flex;
    flex-direction: row;
    padding-bottom: 0.5em;
+   padding-left: 1em;
    align-items: center;}
 
 h1 
