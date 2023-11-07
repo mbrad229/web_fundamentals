@@ -33,14 +33,18 @@ h4
    font-family: Lora, serif;
    font-size: 1.5em;
    text-align: center;
-   margin-bottom: 0em;}
+   margin-bottom: 0em;
+   margin-left: 8em;
+   margin-right: 8em;}
 
 p
    {color:#4A593F;
    font-family: Lora, serif;
    font-size: 1.25em;
    text-align: center;
-   margin-bottom: 0em;}
+   margin-bottom: 0em;
+   margin-left: 8em;
+   margin-right: 8em;}
 
 body
    {margin-left: 1.5em;
@@ -84,6 +88,8 @@ footer
    font-size: 1.25em;
    text-align: center;
    margin-bottom: 0em;
+   margin-left: 8em;
+   margin-right: 8em;
    display: list-item;}
 
 /*Nav Menu*/
